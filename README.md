@@ -1,6 +1,6 @@
 <!--<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a>--> 
-> ## Dream big, make it happen.
-> <small>- Gekko (VALORANT)</small>
+> ## Nice to meet you, unless you're here to make me work overtime.
+> <small>- Asaba Harumasa (ZZZ)</small>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> </p>
 Welcome to my GitHub! 😇</h1>
@@ -10,15 +10,14 @@ Welcome to my GitHub! 😇</h1>
 </p> -->
 
 -   🤗 I'm an junior developer, Software and Hardware Engineer!
--   🏫 I am a student of SMAN 1 Malang currently on grade 10
 -   💻 I'm the lead engineer and lead schematic and PCB designer of Radianite!
 -   🔭 I'm currently working on my Competitive Coding Skills.
 -   🌱 I'm currently learning _how to properly make backends_ 
--   💬 Ask me about JavaScript, C#, Java, React.js, HTML, Python, Rust, Arduino.
+-   💬 Ask me about JavaScript, C#, Java, React.js, HTML, Python, Rust (little), Arduino.
 -   📫 How to reach me: 
     
-    - <a href="mailto:zeanfender11@gmail.com">Email</a>
-    - <a href="https://discord.gg/pbYzGWF9Q4">Discord <i>(I'm always active here)</i></a>
+    - <a href="mailto:zeanfender11@proton.me">Business email</a>
+    - Discord <i>(I'm always active here)</i>: @zeankundev
 
 ### About Me
 
@@ -32,7 +31,7 @@ Currently, my aim is to become a globally competent individual with **programmin
 - Typeform
 - KiCad
 - VS Code
-- bash
+- Bash
 
 ### My Setup (as of October 2024)
 - Lenovo ThinkPad T480, with the following specs
@@ -117,8 +116,9 @@ Connect with me<img src="Assets/Handshake.gif" height="32px">
  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/SerialDesignatorN) [<img src="Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zeanfender11@gmail.com) [<img src="Assets/Discord-Logo-Color.svg" alt="Discord logo" height="32">](https://discord.gg/2cJBQrdZkm) [<img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="twitter" height="32">](https://twitter.com/ZeanKunDevRil) [pls click me](https://bit.ly/3kmEhmP) 
 
  
- <h2>Donate me on Trakteer!</h2>
+ <h2>Donate me!</h2>
 <a href="https://trakteer.id/zeankundev" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a>
+<a href='https://ko-fi.com/A0A618XUJR' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 # FAQ about me
