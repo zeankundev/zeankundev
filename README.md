@@ -1,3 +1,6 @@
+> ![image](https://github.com/user-attachments/assets/d498ce37-adcf-4db7-8646-131584b4f910)
+> *<small>a github-exclusive pic of myself cosplaying, nowhere to be found :)</small>*
+
 # yo here there, random stranger :)
 i'm zeankun.dev. i make shit like [CompassCAD](https://github.com/zeankundev/CompassCAD) and [Suside](https://github.com/zeankundev/suside) (you've probably known Suside from Bringus Studios so yeah, i'm that one guy :)
 ## uh tell us more about you
