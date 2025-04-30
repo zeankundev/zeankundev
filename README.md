@@ -3,7 +3,7 @@
 > *<small>EOUS WHAT ARE YOU DOING SOMEBODY PLEASE HELP HIM</small>*
 
 # yo hey there, random stranger :)
-i'm zeankun.dev. i make shit like [CompassCAD](https://github.com/zeankundev/CompassCAD) and [Suside](https://github.com/zeankundev/suside) (you've probably known Suside from Bringus Studios so yeah, i'm that one guy :)
+i'm zeankun (formerly known as zeankun.dev). i make shit like [CompassCAD](https://github.com/zeankundev/CompassCAD) and [Suside](https://github.com/zeankundev/suside) (you've probably known Suside from Bringus Studios so yeah, i'm that one guy :)
 ## uh tell us more about you
 - i am zeankun.dev, you can call me zean or zeankun, whatever that works.
 - i study ofc :) *(psst, mathematics and compsci are my favs)*
