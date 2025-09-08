@@ -1,6 +1,6 @@
-> ![image](https://github.com/user-attachments/assets/0e4db48d-8d5d-4f92-9a45-a9a29462b005)
+> <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c4a13ff5-6d52-4ca2-b8a8-e5fe52a55d96" />
 > 
-> *<small>EOUS WHAT ARE YOU DOING SOMEBODY PLEASE HELP HIM</small>*
+> *<small>calm lift snapshot on a minecraft building</small>*
 
 # yo hey there, random stranger :)
 i'm zeankun (formerly known as zeankun.dev). i make shit like [CompassCAD](https://github.com/zeankundev/CompassCAD) and [Suside](https://github.com/zeankundev/suside) (you've probably known Suside from Bringus Studios so yeah, i'm that one guy :)
