@@ -1,6 +1,6 @@
-> <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c4a13ff5-6d52-4ca2-b8a8-e5fe52a55d96" />
+> <img width="1920" height="1080" alt="Screenshot From 2025-09-16 19-27-12" src="https://github.com/user-attachments/assets/b4b24bdf-af3c-43a9-88e8-6afef829ff92" />
 > 
-> *<small>calm lift snapshot on a minecraft building</small>*
+> *<small>birdie heavy pls dont kill me</small>*
 
 # yo hey there, random stranger :)
 i'm zeankun (formerly known as zeankun.dev). i make shit like [CompassCAD](https://github.com/zeankundev/CompassCAD) and [Suside](https://github.com/zeankundev/suside) (you've probably known Suside from Bringus Studios so yeah, i'm that one guy :)
