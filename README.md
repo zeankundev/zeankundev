@@ -11,6 +11,16 @@ i'm zeankun (formerly known as zeankun.dev). i make shit like [CompassCAD](https
 - besides than writing code here, i also publish my open source PCBs that i've made so far, so YOU (yes, you), can sell boards that i design (under your own brand pls) and make cash.
 - i'm more dominant in electrical engineering rather than compsi, so you're safe to say that coding is just my hobby.
 - if you're here as a result of stalking my accounts *(because i did cosplays on tiktok and insta)*, well congrats, i'm real, and i made those content :)
+## pc spec?
+its relatively simple to know. i use a ThinkPad T480 for almost 95% of my work here (also my gaming laptop), although in some cases, i may use my Raspberry Pi 5.
+if you'd like to delve deeper about my daily driver, i can give it (sysinfo is from `fastfetch` btw)
+
+- **OS** (as of writing this): Kubuntu 25.10
+- **CPU**: Intel Core i5-8350U @ 3.6 GHz
+- **GPU**: UHD 620 (integrated)
+- **RAM**: 8GB DDR4 (with 10.5GB swap)
+- **Drive**: 256GB Intel NVMe SSD (`SSDPEKKF256G8L`)
+- **Mouse**: Logitech Gaming G102 Prodigy @ 3500 DPI (3900 DPI for osu!, 1600 DPI for Phighting)
 
 <hr/>
 
