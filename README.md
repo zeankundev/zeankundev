@@ -11,6 +11,11 @@ i'm zeankun (formerly known as zeankun.dev). i make shit like [CompassCAD](https
 - besides than writing code here, i also publish my open source PCBs that i've made so far, so YOU (yes, you), can sell boards that i design (under your own brand pls) and make cash.
 - i'm more dominant in electrical engineering rather than compsi, so you're safe to say that coding is just my hobby.
 - if you're here as a result of stalking my accounts *(because i did cosplays on tiktok and insta)*, well congrats, i'm real, and i made those content :)
+# realtime activity
+<div style="display:flex;gap:10px;justify-content:center;align-items:center" align="center">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pkju6wl9xzapbywwo7xh5sfpt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
+<img src="https://lanyard.cnrad.dev/api/793983601288544286?showDisplayName=true&bg=1d1d1d&idleMessage=idk%20lol%20probably%20i%20forgor&theme=dark&hideStatus=true" />
+</div>
 ## pc spec?
 its relatively simple to know. i use a ThinkPad T480 for almost 95% of my work here (also my gaming laptop), although in some cases, i may use my Raspberry Pi 5.
 if you'd like to delve deeper about my daily driver, i can give it (sysinfo is from `fastfetch` btw)
