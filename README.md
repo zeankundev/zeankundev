@@ -5,6 +5,12 @@
 
 # yo hey there, random stranger :)
 i'm zeankun (formerly known as zeankun.dev). i make shit like [CompassCAD](https://github.com/zeankundev/CompassCAD) and [Suside](https://github.com/zeankundev/suside) (you've probably known Suside from Bringus Studios so yeah, i'm that one guy :)
+
+i also experiment a lot with offline AI (in case, well, if something catastrophic happens) with the Pi 5
+
+besides that, i love listening to vocaloid as part of my work or coding sessions or anything professional. my favs are **Kasane Teto** and **Hatsune Miku**. fav Vocaloid artist? **[Jamie Paige ofc!](https://jamies.page)** (*current favorites are* **Machine Love** *and* **BIRDBRAIN**)
+
+learn more about me [here!](https://zeankun.dev)
 ## uh tell us more about you
 - i am zeankun.dev, you can call me zean or zeankun, whatever that works.
 - i study ofc :) *(psst, mathematics and compsci are my favs)*
@@ -27,6 +33,15 @@ if you'd like to delve deeper about my daily driver, i can give it (sysinfo is f
 - **RAM**: 8GB DDR4 (with 10.5GB swap)
 - **Drive**: 256GB Intel NVMe SSD (`SSDPEKKF256G8L`)
 - **Mouse**: Logitech Gaming G102 Prodigy @ 3500 DPI (3900 DPI for osu!, 1600 DPI for Phighting)
+
+# recommended video games to play (from my experience cuz either I play these or I used to play this)
+- MLBB
+- Free Fire (top)
+- osu!
+- Phighting (Roblox)
+- Valley Prison (Roblox, visit here if you want to RP w me)
+- Pokemon Unite (I'm `saltw4t3r`, the one with the Grenin main)
+- AstroDX (cuz **maimai DX** machines are hard to find here)
 
 <hr/>
 
