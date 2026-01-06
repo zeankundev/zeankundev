@@ -38,6 +38,7 @@ if you'd like to delve deeper about my daily driver, i can give it (sysinfo is f
 - MLBB
 - Free Fire (top)
 - osu!
+- Guts & Blackpowder (Roblox)
 - Phighting (Roblox)
 - Valley Prison (Roblox, visit here if you want to RP w me)
 - Pokemon Unite (I'm `saltw4t3r`, the one with the Grenin main)
