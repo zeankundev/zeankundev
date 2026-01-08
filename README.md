@@ -6,6 +6,8 @@
 # yo hey there, random stranger :)
 i'm zeankun (formerly known as zeankun.dev). i make shit like [CompassCAD](https://github.com/zeankundev/CompassCAD) and [Suside](https://github.com/zeankundev/suside) (you've probably known Suside from Bringus Studios so yeah, i'm that one guy :)
 
+i'm actually [Leoneuryguy's](https://tiktok.com/@Leoneuryguy) **biological big brother**. that's why you see both me and Leon at the same time
+
 i also experiment a lot with offline AI (in case, well, if something catastrophic happens) with the Pi 5
 
 besides that, i love listening to vocaloid as part of my work or coding sessions or anything professional. my favs are **Kasane Teto** and **Hatsune Miku**. fav Vocaloid artist? **[Jamie Paige ofc!](https://jamies.page)** (*current favorites are* **Machine Love** *and* **BIRDBRAIN**)
