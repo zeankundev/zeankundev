@@ -1,7 +1,4 @@
-> <img width="928" height="412" alt="image" src="https://github.com/user-attachments/assets/b5311490-23ec-4eca-8c96-a1029f3089f0" />
-> <img width="1112" height="626" alt="image" src="https://github.com/user-attachments/assets/6caf4860-b1f7-45c7-aa25-7d2d10c55906" />
-> 
-> *<small>combat master flex btw (im lv 52, top 10k btw :D), add me, its `AVT•MANGEAKKツツ`</small>*
+> *<small>imma go to lol wr. add me either on Valorant/WR: `zeankundev#Linux`</small>*
 
 # yo hey there, random stranger :)
 i'm zeankun (formerly known as zeankun.dev). i make shit like [CompassCAD](https://github.com/zeankundev/CompassCAD) and [Suside](https://github.com/zeankundev/suside) (you've probably known Suside from Bringus Studios so yeah, i'm that one guy :)
