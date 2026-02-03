@@ -12,6 +12,7 @@ besides that, i love listening to vocaloid as part of my work or coding sessions
 learn more about me [here!](https://zeankun.dev)
 ## uh tell us more about you
 - i am zeankun.dev, you can call me zean or zeankun, whatever that works.
+- bday's at 1st January (nocap like fr)
 - i study ofc :) *(psst, mathematics and compsci are my favs)*
 - besides than writing code here, i also publish my open source PCBs that i've made so far, so YOU (yes, you), can sell boards that i design (under your own brand pls) and make cash.
 - i'm more dominant in electrical engineering rather than compsi, so you're safe to say that coding is just my hobby.
