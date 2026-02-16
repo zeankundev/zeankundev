@@ -17,6 +17,7 @@ learn more about me [here!](https://zeankun.dev)
 - besides than writing code here, i also publish my open source PCBs that i've made so far, so YOU (yes, you), can sell boards that i design (under your own brand pls) and make cash.
 - i'm more dominant in electrical engineering rather than compsi, so you're safe to say that coding is just my hobby.
 - if you're here as a result of stalking my accounts *(because i did cosplays on tiktok and insta)*, well congrats, i'm real, and i made those content :)
+- as of writing, I'm now a maimai player!
 # realtime activity
 <div style="display:flex;gap:10px;justify-content:center;align-items:center" align="center">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pkju6wl9xzapbywwo7xh5sfpt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
@@ -35,6 +36,8 @@ if you'd like to delve deeper about my daily driver, i can give it (sysinfo is f
 - **Mouse**: Logitech Gaming G102 Prodigy @ 3500 DPI (3900 DPI for osu!, 1600 DPI for Phighting)
 
 # recommended video games to play (from my experience cuz either I play these or I used to play this)
+- Wild Rift
+- maimai DX
 - MLBB
 - Free Fire (top)
 - osu!
@@ -43,6 +46,12 @@ if you'd like to delve deeper about my daily driver, i can give it (sysinfo is f
 - Valley Prison (Roblox, visit here if you want to RP w me)
 - Pokemon Unite (I'm `saltw4t3r`, the one with the Grenin main)
 - AstroDX (cuz **maimai DX** machines are hard to find here)
+
+# where to add me
+- most social media: `zeankun`/`zeankundev`/`zeankun.dev`
+- maimai DX: **zeankun** (friend code: `102607290433378`)
+- League/most Riot games: `zeankundev#Linux`
+- Roblox: `ZeanPlays_Roblox`
 
 <hr/>
 
