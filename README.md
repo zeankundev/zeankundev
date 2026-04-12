@@ -35,12 +35,21 @@ if you'd like to delve deeper about my daily driver, i can give it (sysinfo is f
 - **Drive**: 256GB Intel NVMe SSD (`SSDPEKKF256G8L`)
 - **Mouse**: Logitech Gaming G102 Prodigy @ 3500 DPI (3900 DPI for osu!, 1600 DPI for Phighting)
 
+## osu! spec shit
+- **Playstyle**: Tablet
+- **Tablet**: XP-Pen Deco Fun XS - Black
+- **Keyboard**: Laptop keyboard (_rip_)
+- **Active area/settings**:
+
+  <img width="498" height="231" alt="image" src="https://github.com/user-attachments/assets/3bfa5e21-bc0a-439f-9f7c-008648ef5cf5" />
+
+- **Grip**: Depends on mood :)
+
 # recommended video games to play (from my experience cuz either I play these or I used to play this)
-- Wild Rift
+- osu!
 - maimai DX
 - MLBB
 - Free Fire (top)
-- osu!
 - Guts & Blackpowder (Roblox)
 - Phighting (Roblox)
 - Valley Prison (Roblox, visit here if you want to RP w me)
