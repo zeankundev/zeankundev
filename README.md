@@ -22,6 +22,12 @@ learn more about me [here!](https://zeankun.dev)
 - TypeScript (React)
 - JavaScript/HTML
 - C++
+- C#
+
+yeah i forgor. here's a complete list ig:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeankundev&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,css)
+
 
 # realtime activity
 <div style="display:flex;gap:10px;justify-content:center;align-items:center" align="center">
