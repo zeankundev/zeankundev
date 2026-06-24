@@ -17,6 +17,12 @@ learn more about me [here!](https://zeankun.dev)
 - if you're here as a result of stalking my accounts *(because i did cosplays on tiktok and insta)*, well congrats, i'm real, and i made those content :)
 - i [make music](https://soundcloud.com/zeankundev) with Ableton Live 12 (now) and FL Studio
 - i am an arcade addict. go find me irl playing either WMMT, maimai or Chunithm.
+
+# languages im pro at
+- TypeScript (React)
+- JavaScript/HTML
+- C++
+
 # realtime activity
 <div style="display:flex;gap:10px;justify-content:center;align-items:center" align="center">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pkju6wl9xzapbywwo7xh5sfpt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
