@@ -17,6 +17,7 @@ learn more about me [here!](https://zeankun.dev)
 - if you're here as a result of stalking my accounts *(because i did cosplays on tiktok and insta)*, well congrats, i'm real, and i made those content :)
 - i [make music](https://soundcloud.com/zeankundev) with Ableton Live 12 (now) and FL Studio
 - i am an arcade addict. go find me irl playing either WMMT, maimai or Chunithm.
+- i love horses and umas!
 
 # languages im pro at
 - TypeScript (React)
@@ -39,17 +40,21 @@ yeah i forgor. here's a complete list ig:
 its relatively simple to know. i use a ThinkPad T480 for almost 95% of my work here (also my gaming laptop), although in some cases, i may use my Raspberry Pi 5.
 if you'd like to delve deeper about my daily driver, i can give it (sysinfo is from `fastfetch` btw)
 
-- **OS** (as of writing this): openSUSE Tumbleweed (KDE)
+- **OS** (as of writing this): Windows 11 Pro
 - **CPU**: Intel Core i5-8350U @ 3.6 GHz
 - **GPU**: UHD 620 (integrated)
 - **RAM**: 8GB DDR4 (same swap size w RAM)
 - **Drive**: 256GB Intel NVMe SSD (`SSDPEKKF256G8L`)
 - **Mouse**: Logitech Gaming G102 Prodigy @ 3500 DPI (3900 DPI for osu!, 1600 DPI for Phighting)
 
+## phone?
+meh, no ones going to give a damn about this, but it's certainly a Samsung. yes, I use a Samsung
+
 ## osu! spec shit
 *moved to my [profile page](https://osu.ppy.sh/users/19441752)*
 
-# recommended video games to play (from my experience cuz either I play these or I used to play this)
+# what I play
+- Umamusume (laptop and phone)
 - osu!
 - maimai DX
 - CHUNITHM
@@ -65,6 +70,9 @@ if you'd like to delve deeper about my daily driver, i can give it (sysinfo is f
 - CHUNITHM: **ＨＥＮＲＹＹ！♂** (friend code: `102407240739398`)
 - League/most Riot games: `zeankundev#Linux`
 - Roblox: `ZeanPlays_Roblox`
+- Umamusume: `602846067013`
+
+
 
 <hr/>
 
