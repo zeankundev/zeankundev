@@ -54,7 +54,7 @@ yeah i forgor. here's a complete list ig:
 its relatively simple to know. i use a ThinkPad T480 for almost 95% of my work here (also my gaming laptop), although in some cases, i may use my Raspberry Pi 5.
 if you'd like to delve deeper about my daily driver, i can give it (sysinfo is from `fastfetch` btw)
 
-- **OS** (as of writing this): Windows 11 Pro
+- **OS** (as of writing this): Void Linux (with GNOME)
 - **CPU**: Intel Core i5-8350U @ 3.6 GHz
 - **GPU**: UHD 620 (integrated)
 - **RAM**: 8GB DDR4 (same swap size w RAM)
