@@ -38,6 +38,11 @@ learn more about me [here!](https://zeankun.dev)
 - VS Code / Antigravity (for Linux install)
 - Vim
 - Kitty/Konsole (for Linux install)
+- **Video Editing** (nested because I do use a lot of video editors)
+  - **[Filmcraft](https://github.com/storytold/filmcraft)** (current, 2026)
+  - **Kdenlive** (since 2021-2026, most of my vids were made in this software)
+  - **Premiere Pro** (only used in one video)
+  - **CapCut/VN** (if I edit on phone, usually on my TikTok)
 
 yeah i forgor. here's a complete list ig:
 
