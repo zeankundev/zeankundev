@@ -67,8 +67,9 @@ if you'd like to delve deeper about my daily driver, i can give it (sysinfo is f
 - **Mouse**: Logitech Gaming G102 Prodigy @ 1600 DPI
 - **Tablet** (for osu!): XP-Pen Deco Fun XS
 
-## phone?
-meh, no ones going to give a damn about this, but it's certainly a Samsung. yes, I use a Samsung
+## bullshit stuff
+phone? meh, no ones going to give a damn about this, but it's certainly a Samsung. yes, I use a Samsung
+for watch, I use a hard-to-HAP-sideload Huawei watch (still runs decent HarmonyOS 6 tho)
 
 ## osu! spec shit
 *moved to my [profile page](https://osu.ppy.sh/users/19441752)*
