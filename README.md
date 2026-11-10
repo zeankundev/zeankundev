@@ -62,7 +62,7 @@ if you'd like to delve deeper about my daily driver, i can give it (sysinfo is f
 - **OS** (as of writing this, I switch OSes back and forth): Windows 11
 - **CPU**: Intel Core i5-8350U @ 3.6 GHz
 - **GPU**: UHD 620 (integrated)
-- **RAM**: 8GB DDR4 (same swap size w RAM)
+- **RAM**: 16GB DDR4 (same swap size w RAM)
 - **Drive**: 256GB Intel NVMe SSD (`SSDPEKKF256G8L`)
 - **Mouse**: Logitech Gaming G102 Prodigy @ 1600 DPI
 - **Tablet** (for osu!): XP-Pen Deco Fun XS
